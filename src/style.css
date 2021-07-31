@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+span {
+  font: optional;
+  line-height: 120px + 4px +12px + 224px;
+}
+div span {
+  color: blue;
+  float: right;
+  position: absolute;
+}
+div span input {
+  color: black;
+  line-height: 120px + 4px +12px + 224px;
+}
